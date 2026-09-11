@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    border: red 2px solid;
+    flex-direction: column;
+}
+a {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+}
+p {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+}
+div {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    display: flex;
+}
+body {
+    display: flex;
+    justify-content: center;
+    height: 120vh;
+    border: red 2px solid;
+    flex-direction: row;
+}
+header {
+    border: 2px solid blue;
+    height: 150px;
+    width: 250vh;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+    a {
+    border: 2px solid green;
+    padding-inline: 50px;
+    padding-bottom: 50px;
+}
