@@ -12,11 +12,24 @@ body {
 }
 header {
     border: 2px blue solid;
-    width: 300px;
+    width: 400px;
     height: 200px;
 }
 h6 {
     border: 2px solid green;
-    padding-inline: 50px;
-    padding-bottom: 50px;
+    padding-inline: 20px;
+    padding-bottom: 20px;
+    max-width: 200px;
+}
+p {
+    border: 2px solid green;
+    padding-inline: 20px;
+    padding-bottom: 20px;
+    max-width: 300px;
+}
+div {
+    border: 2px solid green;
+    padding-inline: 20px;
+    padding-bottom: 20px;
+    max-width: 300px;
 }
